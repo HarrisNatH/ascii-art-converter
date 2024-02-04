@@ -6,7 +6,7 @@ It is intended for all ages, or who has nostalgic about the retro style in 80's.
 
 My converter takes this image:
 
-![image](/ascii-art-converter/src/resources/shibeIcon.jpeg)
+![image](/src/resources/shibeIcon.jpeg)
 
 And converts it to:
 ```
