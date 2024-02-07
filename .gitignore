@@ -1,2 +1,2 @@
-# ignores the specific image file
+# ignores all of the image files
 src/resources/*
